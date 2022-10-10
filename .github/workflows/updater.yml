@@ -42,6 +42,9 @@ jobs:
           signoff: false
           base: testing
           branch: ci-auto-update-v${{ env.VERSION }}
+          delete-branch: true
+          title: 'Upgrade to version ${{ env.VERSION }}'
           body: |
             Upgrade to v${{ env.VERSION }}
+            [See changelog](https://github.com/misskey-dev/misskey/blob/develop/CHANGELOG.md)            
           draft: false
