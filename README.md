@@ -33,6 +33,7 @@ You will be asked to choose a username and password when you first access the ap
 
 ## Documentation and resources
 
+* Yunohost app: <https://github.com/YunoHost-Apps/trilium_ynh>
 * Official app website: <https://github.com/zadam/trilium>
 * Official admin documentation: <https://github.com/zadam/trilium/wiki>
 * Upstream app code repository: <https://github.com/zadam/trilium>
