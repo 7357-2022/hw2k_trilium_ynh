@@ -1,5 +1,5 @@
-SOURCE_URL=https://github.com/zadam/trilium/archive/refs/tags/v0.57.3.tar.gz
-SOURCE_SUM=359ed210d864aadd66d000b1394235fa1f647d0e9a00a2a8b3f665d3aab6da7d
+SOURCE_URL=https://github.com/zadam/trilium/archive/refs/tags/v0.57.4.tar.gz
+SOURCE_SUM=cad671d596b2fa29269e75fa935d7f34a3bcc89d7bca12c3c99c82c8312523cf
 SOURCE_SUM_PRG=sha256sum
 SOURCE_FORMAT=tar.gz
 SOURCE_IN_SUBDIR=true
